@@ -6,7 +6,7 @@ title = "gomediakc"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 enableEmoji = true
-disableKinds = ["taxonomy", "term"]
+disableKinds = ["", ""]
 
 [params.author]
   # name = "gomediakc"

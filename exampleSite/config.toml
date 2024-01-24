@@ -2,7 +2,7 @@ theme = "lynx"
 title = "gomediakc"
 
 enableEmoji = true
-disableKinds = ["taxonomy", "term"]
+disableKinds = ["", ""]
 
 [params.author]
   name = "gomediakc"
