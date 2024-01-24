@@ -7,7 +7,7 @@ disableKinds = ["taxonomy", "term"]
 [params.author]
   name = "gomediakc"
   headline = "gomediakc"
-  image = "https://app.gomediakc.com/asset-get/A0000fZdFYP8JpZA/GOMedia-Logo-Redesign-1-50x50-ICO.png"
+  image = "/GOMedia_Logo_Redesign_1_180x180_ICO.png""
   links = [
     { link = { href = "https://github.com/jpanther/lynx/blob/stable/README.md", text = "View the readme", icon = "github" } },
     { link = { href = "styles/", text = "All the link styles", target = "_self" } },
@@ -17,7 +17,7 @@ disableKinds = ["taxonomy", "term"]
   ]
 
 [markup.highlight]
-  noClasses = false
+  noClasses = true
 
 [markup.goldmark]
 [markup.goldmark.renderer]
