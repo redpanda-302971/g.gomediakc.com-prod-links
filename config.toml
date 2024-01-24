@@ -14,8 +14,8 @@ disableKinds = ["", ""]
   # image = "/GOMedia_Logo_Redesign_1_180x180_ICO.png"  # path relative to static directory
 
   links = [
-    # { email = "mailto:hello@gomediakc.com },
-    # { link = "https://gomediakc.com" },
+     { email = "mailto:hello@gomediakc.com },
+     { link = "https://gomediakc.com" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { codepen = "https://codepen.io/username" },
@@ -28,11 +28,11 @@ disableKinds = ["", ""]
     # { github = "https://github.com/username" },
     # { gitlab = "https://gitlab.com/username" },
     # { google = "https://www.google.com/" },
-    # { instagram = "https://instagram.com/username" },
+     { instagram = "https://instagram.com/gomediakc" },
     # { keybase = "https://keybase.io/username" },
     # { kickstarter = "https://www.kickstarter.com/profile/username" },
     # { lastfm = "https://last.fm/user/username" },
-    # { linkedin = "https://linkedin.com/in/garrett.ohrenberg" },
+     { linkedin = "https://linkedin.com/in/garrett.ohrenberg" },
     # { mastodon = "https://mastodon.instance/@username" },
     # { medium = "https://medium.com/username" },
     # { microsoft = "https://www.microsoft.com/" },
@@ -53,7 +53,7 @@ disableKinds = ["", ""]
     # { twitch = "https://twitch.tv/username" },
     # { twitter = "https://twitter.com/username" },
     # { whatsapp = "https://wa.me/phone-number" },
-    # { x = "https://x.com/username" },
+     { x = "https://x.com/gomediakc" },
     # { youtube = "https://youtube.com/username" },
   ]
 
