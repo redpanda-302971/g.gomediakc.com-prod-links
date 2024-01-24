@@ -1,21 +1,21 @@
-# baseURL = "https://your_domain.com/"
+# baseURL = "https://g.gomediakc.com"
 languageCode = "en"
 defaultContentLanguage = "en"
 
-title = "Lynx"
+title = "gomediakc"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [params.author]
-  # name = "Your name here"
-  # headline = "An awesome person"
-  # image = "img/author.jpg"  # path relative to static directory
+  # name = "gomediakc"
+  # headline = "gomediakc"
+  # image = "https://app.gomediakc.com/asset-get/A0000fZdFYP8JpZA/GOMedia-Logo-Redesign-1-50x50-ICO.png"  # path relative to static directory
 
   links = [
-    # { email = "mailto:hello@your_domain.com" },
-    # { link = "https://link-to-some-website.com/" },
+    # { email = "mailto:hello@gomediakc.com },
+    # { link = "https://gomediakc.com" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { codepen = "https://codepen.io/username" },
@@ -32,7 +32,7 @@ disableKinds = ["taxonomy", "term"]
     # { keybase = "https://keybase.io/username" },
     # { kickstarter = "https://www.kickstarter.com/profile/username" },
     # { lastfm = "https://last.fm/user/username" },
-    # { linkedin = "https://linkedin.com/in/username" },
+    # { linkedin = "https://linkedin.com/in/garrett.ohrenberg" },
     # { mastodon = "https://mastodon.instance/@username" },
     # { medium = "https://medium.com/username" },
     # { microsoft = "https://www.microsoft.com/" },
