@@ -6,7 +6,7 @@ title = "gomediakc11"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 enableEmoji = true
-disableKinds = ["", ""]
+disableKinds = 
 
 [params.author]
   # name = "gomediakc22"
@@ -14,7 +14,7 @@ disableKinds = ["", ""]
   # image = "/GOMedia_Logo_Redesign_1_180x180_ICO.png"  # path relative to static directory
 
   links = [
-    # { email = "mailto:hello@gomediakc.com },
+     { email = "mailto:hello@gomediakc.com },
     # { link = "https://gomediakc.com" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
@@ -28,11 +28,11 @@ disableKinds = ["", ""]
     # { github = "https://github.com/username" },
     # { gitlab = "https://gitlab.com/username" },
     # { google = "https://www.google.com/" },
-    # { instagram = "https://instagram.com/gomediakc" },
+     { instagram = "https://instagram.com/gomediakc" },
     # { keybase = "https://keybase.io/username" },
     # { kickstarter = "https://www.kickstarter.com/profile/username" },
     # { lastfm = "https://last.fm/user/username" },
-    # { linkedin = "https://linkedin.com/in/garrett.ohrenberg" },
+     { linkedin = "https://linkedin.com/in/garrett.ohrenberg" },
     # { mastodon = "https://mastodon.instance/@username" },
     # { medium = "https://medium.com/username" },
     # { microsoft = "https://www.microsoft.com/" },
@@ -51,9 +51,9 @@ disableKinds = ["", ""]
     # { tiktok = "https://tiktok.com/@username" },
     # { tumblr = "https://username.tumblr.com" },
     # { twitch = "https://twitch.tv/username" },
-    # { twitter = "https://twitter.com/username" },
+     { twitter = "https://twitter.com/username" },
     # { whatsapp = "https://wa.me/phone-number" },
-    # { x = "https://x.com/gomediakc" },
+     { x = "https://x.com/gomediakc" },
     # { youtube = "https://youtube.com/username" },
   ]
 
