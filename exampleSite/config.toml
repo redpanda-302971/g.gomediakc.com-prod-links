@@ -1,12 +1,12 @@
 theme = "lynx"
-title = "gomediakc"
+title = "gomediakc1"
 
 enableEmoji = true
 disableKinds = ["", ""]
 
 [params.author]
-  name = "gomediakc"
-  headline = "gomediakc"
+  name = "gomediakc2"
+  headline = "gomediakc3"
   image = "/GOMedia_Logo_Redesign_1_180x180_ICO.png""
   links = [
     { link = { href = "https://gomediakc.com", text = "View the readme", icon = "github" } },
